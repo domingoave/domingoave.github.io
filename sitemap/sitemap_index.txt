@@ -1,1 +1,6 @@
-
+https://domingoave.github.io/sitemap/sitemap-ar000.txt.gz
+https://domingoave.github.io/sitemap/sitemap-es000.txt.gz
+https://domingoave.github.io/sitemap/sitemap-it000.txt.gz
+https://domingoave.github.io/sitemap/sitemap-ja000.txt.gz
+https://domingoave.github.io/sitemap/sitemap-pl000.txt.gz
+https://domingoave.github.io/sitemap/sitemap-pt000.txt.gz
